@@ -1,0 +1,38 @@
+body{
+
+}
+
+.container {
+    background-color: white;
+}
+
+.pull-right img-thumbnail {
+    margin-top: -10px;
+    margin-bottom: 10px
+}
+
+.header-row {
+    margin-top: 20px
+}
+
+.banner-img {
+    margin-bottom: 20px
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.product-img {
+    width: 70%;
+}
+
+#test{
+    width: 83.34% !important;
+    position: absolute;
+    height: inherit;
+    right:0;
+    background: rgba(0, 0, 0, 0.59);
+}
+
+
